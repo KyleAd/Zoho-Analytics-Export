@@ -1,8 +1,8 @@
 # Zoho Analytics Export
-Zoho Analytics API tool & Automated CVS exporter
+Zoho Analytics API tool & Automated CSV exporter
 
 ## Description
-Receives API tables through Zoho Analytics so that it can be exported through a CVS file with just a click of a button. The automated process comes from a simple task schedule that can be applied on any Windows Machine.
+Receives API tables through Zoho Analytics so that it can be exported through a CSV file with just a click of a button. The automated process comes from a simple task schedule that can be applied on any Windows Machine.
 
 ## Tasks
 **Complete**
